@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TreePediaFork.iml" filepath="$PROJECT_DIR$/TreePediaFork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/TreePediaFork-app.iml" filepath="$PROJECT_DIR$/app/TreePediaFork-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
